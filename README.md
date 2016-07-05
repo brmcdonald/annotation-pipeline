@@ -3,7 +3,7 @@ JSON-based customizable genome annotation pipeline for bacterial genomes
 
 Work in progress. Features that need to be added:
 
-  parsing genbak files as input
+  parsing genbank files as input
   
   generating genbank files from JSON files
   
